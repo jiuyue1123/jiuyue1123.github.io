@@ -6,4 +6,4 @@
 
 > Next click the button and let's get started
 
-[Get Started](/computer/#)
+[Get Started](/welcome.md)
