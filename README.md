@@ -1,2 +1,1 @@
-# jiuyue1123.github.io
-# <center>A project demo website</center>
+# <center>希望的实现在我们，希望的实现关键在现在。让我们为强者喝彩，为强者歌唱！<center>
