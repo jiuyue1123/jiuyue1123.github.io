@@ -2,3 +2,4 @@
 * [You are welcome to come](/welcome.md)
 * [计算机基础](/computer/#)
   * [1.1 计算机概述](/computer/1.1.md)
+  * [1.2 计算机硬件系统](/computer/1.2.md)
