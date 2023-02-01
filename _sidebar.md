@@ -3,3 +3,4 @@
 * [计算机基础](/computer/#)
   * [1.1 计算机概述](/computer/1.1.md)
   * [1.2 计算机硬件系统](/computer/1.2.md)
+  * [1.3 数据的内部表示](/computer/1.3.md)
