@@ -368,7 +368,8 @@ body.sticky .sidebar-toggle {
   border-top: 1px solid #ccc;
 }
 .markdown-section tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #3f3f3f;
+  /* 修改于23/3/4 */
 }
 .markdown-section p.tip {
   background-color: #f8f8f8;
